@@ -1,7 +1,7 @@
 <h1 align="center"> Hi There👋, My name is Michael Saputra </h1>
 <h3 align="center"> Majoring in Information Systems at MDP University </h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Follow Me :</h3>
 <p align="left">
 <a href="https://instagram.com/michael.saputraa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="michael.saputraa" height="30" width="40" /></a>
 </p>
