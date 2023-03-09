@@ -1,4 +1,4 @@
-### Hi There, My name is Michael Saputra👋 And Here Is My Stats
+### Hi There, My name is Michael Saputra👋 
 
   <img src="https://github-readme-stats.vercel.app/api?username=MichaelSaputra1&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MichaelSaputra1&theme=monokai"/>
