@@ -16,7 +16,7 @@
 </p>
 
 
-
+<h3 align="left">Github Stats :</h3>
 
 <!--
 **MichaelSaputra1/MichaelSaputra1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
