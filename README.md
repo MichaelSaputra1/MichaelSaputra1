@@ -3,6 +3,7 @@
 
 <img align="center" alt="coding" width="300" src="https://user-images.githubusercontent.com/126872953/223950913-7400263e-0e32-4546-a51f-c01c61631351.png">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=michaelsaputra1&label=Profile%20views&color=0e75b6&style=flat" alt="michaelsaputra1" /> </p>
 
 <h2 align="left">Follow Me :</h2>
 <p align="left">
